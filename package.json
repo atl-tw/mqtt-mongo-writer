@@ -6,6 +6,7 @@
   "repository": "https://github.com/angular/angular-seed",
   "devDependencies": {},
   "dependencies": {
+    "kerberos": "0.0.18",
     "mongodb": "^2.1.4",
     "mqtt": "^1.7.0"
   }
