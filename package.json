@@ -1,0 +1,12 @@
+{
+  "name": "mqtt-mongo-writer",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Reads from MQTT queue and writes to MongoDB",
+  "repository": "https://github.com/angular/angular-seed",
+  "devDependencies": {},
+  "dependencies": {
+    "mongodb": "^2.1.4",
+    "mqtt": "^1.7.0"
+  }
+}
