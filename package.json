@@ -8,6 +8,7 @@
   "dependencies": {
     "kerberos": "0.0.18",
     "mongodb": "^2.1.4",
-    "mqtt": "^1.7.0"
+    "mqtt": "^1.7.0",
+    "uuid": "^2.0.1"
   }
 }
