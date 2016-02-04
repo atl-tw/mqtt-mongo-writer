@@ -13,7 +13,7 @@ var insertDocument = function(db, document, callback) {
  
 mqttClient.on('connect', function () {
   console.log('mongoClient connected to mosquitto broker.')
-  mqttClient.subscribe('motion');
+  mqttClient.subscribe('/motion');
 });
  
 mqttClient.on('message', function (topic, message) {
